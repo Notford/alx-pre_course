@@ -1,6 +1,10 @@
 #!/bin/bash 
+<<<<<<< HEAD
  update_script
  echo "The School of Great Software Engineers!"
  
  echo "The Softare School!"
 master
+=======
+ echo "The school is open!"
+>>>>>>> main
