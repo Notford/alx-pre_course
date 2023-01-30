@@ -4,4 +4,12 @@ update_script
  main
 #!/bin/bash 
  echo "ALX School is so cool!"
+<<<<<<< HEAD
 master
+=======
+
+ master
+i#!/bin/bash 
+ echo "ALX School"
+ 
+>>>>>>> main
