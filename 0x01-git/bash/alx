@@ -1,8 +1,5 @@
- main
+
 #!/bin/bash 
  echo "ALX School is so cool!"
 
- master
-i#!/bin/bash 
- echo "ALX School"
- 
+
