@@ -1,6 +1,6 @@
 #!/bin/bash 
-<<<<<<< HEAD
+<<<< main
  echo "The School of Great Software Engineers!"
-=======
+>>>>> update_script
  echo "The school is open!"
->>>>>>> update_script
+
